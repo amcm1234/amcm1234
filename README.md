@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amcm1234
+- 👋 Hi, I’m Adriel Miguel C. Macalintal
 - 👀 I’m interested in Computer hardware and software
 - 🌱 I’m currently learning Python and SQL also have a background in Java
 - 💞️ I’m looking to collaborate on anyone that can help me improve in programming
